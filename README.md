@@ -1,3 +1,5 @@
+[[🔥 2/15 ~ 2/16 과제] movie 예제 : FE/BE with keycloak 연동(local)](https://www.notion.so/heewon00/240205-240228-SpringBatch-Airflow-Kafka-Redis-Keycloak-OKD-Observability-0b2b278866bf460cb6d65847c21e75fd?pvs=4#f3d69830c3ea4f12b4ed52e9341c1d90)
+
 # springboot-react-keycloak 
 
 The goal of this project is to secure `movies-app` using [`Keycloak`](https://www.keycloak.org/)(with PKCE). `movies-app` consists of two applications: one is a [Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) Rest API called `movies-api` and another is a [React](https://react.dev/) application called `movies-ui`.
